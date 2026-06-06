@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Arpita%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descSize=18" width="100%"/>
@@ -17,30 +16,24 @@
 
 <img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👩‍💻 Arpita Paul — Full Stack Developer & Data Analytics Enthusiast
+### 👩‍💻 Arpita Paul — Full Stack Developer | Data Analytics Enthusiast
 
 &nbsp;
 
-🎓 &nbsp; Final Year **Computer Science** Student  
-📍 &nbsp; Based in **Kolkata, India**  
-💻 &nbsp; Building **Full Stack Applications** with React, Node.js & Python  
-📊 &nbsp; Passionate about **Data Analytics, SQL & Visualization**  
-🤖 &nbsp; Exploring **Artificial Intelligence & Machine Learning**  
-⚡ &nbsp; Interested in **Data Engineering & Predictive Analytics**  
-🚀 &nbsp; Turning data into insights and ideas into impactful solutions  
-☕ &nbsp; Fun fact: I debug with coffee ☕ and determination 💪
+🎓 &nbsp; Final Year **Computer Science Engineering** Student  
+📍 &nbsp; **Kolkata, India**  
+💻 &nbsp; Developing scalable applications using **React, Node.js & Python**  
+📊 &nbsp; Skilled in **SQL, Data Analytics & Data Visualization**  
+🤖 &nbsp; Learning **Machine Learning, Deep Learning & AI**  
+📈 &nbsp; Building projects in **Data Analytics, AI & Full Stack Development**  
+🚀 &nbsp; Open to opportunities in **Data Analytics, Data Engineering & Software Development**
 
 &nbsp;
 
-> *"Keep learning, keep building, keep growing!"* ✨
-🐍 My Contribution Snake
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
+> *"Transforming data into insights and ideas into solutions."* ✨
+
+&nbsp;
+
 ### 🎯 Quick Facts
 
 | | |
@@ -49,7 +42,7 @@
 | 🌱 Learning | Deep Learning, Advanced ML, Cloud |
 | 👯 Open to | Collaborations & Internships |
 | 💬 Ask me about | Web Dev, Python, Data Analytics |
-| 📫 Reach me at | [LinkedIn](https://www.linkedin.com/in/arpita-paul-483294289) |
+| 📫 Reach me at | [missarpita1692004@gmail.com](mailto:missarpita1692004@gmail.com) |
 | ⚡ Motto | Code. Learn. Grow. Repeat. 🔁 |
 
 ---
@@ -203,15 +196,40 @@
 
 ---
 
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
 ## 🌐 Connect with Me
 
 <div align="center">
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:missarpita1692004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-paul-483294289)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_arpita07)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_arpita_07_?igsh=YnA0cGd1N2ZxNWJ3)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ArpitaPaul54260)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081301089565)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arpitapaul_/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpitapaaul)
+
+</div>
+
+---
+
+## 📊 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Arpitapaul_?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="60%"/>
 
 </div>
 
