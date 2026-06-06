@@ -12,9 +12,9 @@
 
 ---
 
-## 🌸 About Me
+##  About Me
 
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Girl Coding GIF" width="340" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"/>
 
 ### 👩‍💻 Arpita Paul — Full Stack Developer | Data Analytics Enthusiast
 
@@ -32,16 +32,14 @@
 
 > *"Transforming data into insights and ideas into solutions."* ✨
 
-&nbsp;
-
 ### 🎯 Quick Facts
 
 | | |
 |---|---|
-| 🔭 Working on | Building AI & Data-driven projects |
-| 🌱 Learning | Deep Learning, Advanced ML, Cloud |
-| 👯 Open to | Collaborations & Internships |
-| 💬 Ask me about | Web Dev, Python, Data Analytics |
+| 🔭 Working on | AI & Full Stack Data-driven projects |
+| 🌱 Learning | Deep Learning, Cloud & Data Engineering |
+| 👯 Open to | Collaborations, Internships & Full-time roles |
+| 💬 Ask me about | Web Dev, Python, SQL, Data Analytics |
 | 📫 Reach me at | [missarpita1692004@gmail.com](mailto:missarpita1692004@gmail.com) |
 | ⚡ Motto | Code. Learn. Grow. Repeat. 🔁 |
 
