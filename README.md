@@ -14,22 +14,37 @@
 
 ## 🌸 About Me
 
-```python
-class Arpita:
-    def __init__(self):
-        self.name       = "Arpita Paul"
-        self.username   = "Arpitapaaul"
-        self.location   = "Kolkata, India 🇮🇳"
-        self.status     = "Computer Science Student 🎓"
-        self.passions   = ["Web Development", "Data Analytics", "Machine Learning"]
-        self.hobbies    = ["Coding", "Exploring new tech", "Learning every day"]
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-me = Arpita()
-me.say_hi()
-```
+### 👩‍💻 Arpita Paul — CS Student & Tech Enthusiast
+
+&nbsp;
+
+🎓 &nbsp; Pursuing **Computer Science** degree  
+📍 &nbsp; Based in **Kolkata, India**  
+🌱 &nbsp; Currently learning **Machine Learning & Deep Learning**  
+💡 &nbsp; Passionate about turning data into meaningful insights  
+🌐 &nbsp; Love building **responsive & beautiful web apps**  
+📊 &nbsp; Fascinated by **Data Analytics & Visualization**  
+🤖 &nbsp; Exploring the world of **Artificial Intelligence**  
+⚡ &nbsp; Fun fact: I debug with coffee ☕ and determination 💪  
+
+&nbsp;
+
+> *"Every expert was once a beginner. Keep learning, keep growing!"* 🌟
+
+&nbsp;
+
+### 🎯 Quick Facts
+
+| | |
+|---|---|
+| 🔭 Working on | Building AI & Data-driven projects |
+| 🌱 Learning | Deep Learning, Advanced ML, Cloud |
+| 👯 Open to | Collaborations & Internships |
+| 💬 Ask me about | Web Dev, Python, Data Analytics |
+| 📫 Reach me at | [LinkedIn](https://www.linkedin.com/in/arpita-paul-483294289) |
+| ⚡ Motto | Code. Learn. Grow. Repeat. 🔁 |
 
 ---
 
