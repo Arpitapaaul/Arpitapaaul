@@ -80,7 +80,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arpitapaaul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Arpitapaaul&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4"/>
 
 </div>
 
@@ -88,15 +88,97 @@ me.say_hi()
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![AI-SoilCycle](https://github-readme-stats.vercel.app/api/pin/?username=Arpitapaaul&repo=AI-SoilCycle&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/Arpitapaaul/AI-SoilCycle)
-&nbsp;&nbsp;
-[![Weather ETL Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Arpitapaaul&repo=weather-data-etl-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/Arpitapaaul/weather-data-etl-pipeline)
-
-[![TimeVault](https://github-readme-stats.vercel.app/api/pin/?username=Arpitapaaul&repo=TimeVault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/Arpitapaaul/TimeVault)
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌱 AI-SoilCycle</h3>
+      <div align="center">
+        <a href="https://github.com/Arpitapaaul/AI-SoilCycle">
+          <img src="https://img.shields.io/badge/AI--SoilCycle-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">An AI-powered soil cycle analysis project leveraging machine learning to predict and analyze soil health and agricultural patterns.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AI-ML-A855F7?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </p>
+      <div align="center">
+        <a href="https://github.com/Arpitapaaul/AI-SoilCycle">
+          <img src="https://img.shields.io/badge/📂 View Code-0D1117?style=for-the-badge&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Arpitapaaul/AI-SoilCycle">
+          <img src="https://img.shields.io/badge/🚀 Live Demo-A855F7?style=for-the-badge&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌦️ Weather ETL Pipeline</h3>
+      <div align="center">
+        <a href="https://github.com/Arpitapaaul/weather-data-etl-pipeline">
+          <img src="https://img.shields.io/badge/Weather--ETL-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">Real-Time Weather Data ETL Pipeline using Python, Pandas, MySQL, SQLAlchemy, Streamlit and OpenWeatherMap API.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <div align="center">
+        <a href="https://github.com/Arpitapaaul/weather-data-etl-pipeline">
+          <img src="https://img.shields.io/badge/📂 View Code-0D1117?style=for-the-badge&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Arpitapaaul/weather-data-etl-pipeline">
+          <img src="https://img.shields.io/badge/🚀 Live Demo-A855F7?style=for-the-badge&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⏱️ TimeVault</h3>
+      <div align="center">
+        <a href="https://github.com/Arpitapaaul/TimeVault">
+          <img src="https://img.shields.io/badge/TimeVault-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">A time management and productivity vault application to help track and organize daily tasks and goals efficiently.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Web-Dev-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <div align="center">
+        <a href="https://github.com/Arpitapaaul/TimeVault">
+          <img src="https://img.shields.io/badge/📂 View Code-0D1117?style=for-the-badge&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Arpitapaaul/TimeVault">
+          <img src="https://img.shields.io/badge/🚀 Live Demo-A855F7?style=for-the-badge&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📦 More Coming Soon...</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🔨 In Progress-0D1117?style=for-the-badge&logoColor=A855F7"/>
+      </div>
+      <br/>
+      <p align="center">Always building something new! Stay tuned for exciting upcoming projects in Web Dev, Data Analytics & ML. ✨</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Web Dev-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data-Analytics-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine-Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </p>
+      <div align="center">
+        <a href="https://github.com/Arpitapaaul?tab=repositories">
+          <img src="https://img.shields.io/badge/🔍 View All Repos-A855F7?style=for-the-badge&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
