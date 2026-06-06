@@ -12,25 +12,27 @@
 
 ---
 
-##  About Me
+## 🌸 About Me
 
-<img align="right" alt="Girl Coding GIF" width="340" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"/>
+<img align="right" alt="Girl Coding GIF" width="340" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 ### 👩‍💻 Arpita Paul — Full Stack Developer | Data Analytics Enthusiast
 
 &nbsp;
 
 🎓 &nbsp; Final Year **Computer Science Engineering** Student  
-📍 &nbsp; **Kolkata, India**  
+📍 &nbsp; Based in **Kolkata, India**  
 💻 &nbsp; Developing scalable applications using **React, Node.js & Python**  
 📊 &nbsp; Skilled in **SQL, Data Analytics & Data Visualization**  
 🤖 &nbsp; Learning **Machine Learning, Deep Learning & AI**  
 📈 &nbsp; Building projects in **Data Analytics, AI & Full Stack Development**  
-🚀 &nbsp; Open to opportunities in **Data Analytics, Data Engineering & Software Development**
+🚀 &nbsp; Open to opportunities in **Data Analytics, Data Engineering & Software Development**  
 
 &nbsp;
 
 > *"Transforming data into insights and ideas into solutions."* ✨
+
+&nbsp;
 
 ### 🎯 Quick Facts
 
