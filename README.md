@@ -17,24 +17,22 @@
 
 <img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👩‍💻 Arpita Paul — CS Student & Tech Enthusiast
+### 👩‍💻 Arpita Paul — Full Stack Developer & Data Analytics Enthusiast
 
 &nbsp;
 
-🎓 &nbsp; Pursuing **Computer Science** degree  
+🎓 &nbsp; Final Year **Computer Science** Student  
 📍 &nbsp; Based in **Kolkata, India**  
-🌱 &nbsp; Currently learning **Machine Learning & Deep Learning**  
-💡 &nbsp; Passionate about turning data into meaningful insights  
-🌐 &nbsp; Love building **responsive & beautiful web apps**  
-📊 &nbsp; Fascinated by **Data Analytics & Visualization**  
-🤖 &nbsp; Exploring the world of **Artificial Intelligence**  
-⚡ &nbsp; Fun fact: I debug with coffee ☕ and determination 💪  
+💻 &nbsp; Building **Full Stack Applications** with React, Node.js & Python  
+📊 &nbsp; Passionate about **Data Analytics, SQL & Visualization**  
+🤖 &nbsp; Exploring **Artificial Intelligence & Machine Learning**  
+⚡ &nbsp; Interested in **Data Engineering & Predictive Analytics**  
+🚀 &nbsp; Turning data into insights and ideas into impactful solutions  
+☕ &nbsp; Fun fact: I debug with coffee ☕ and determination 💪
 
 &nbsp;
 
-> *"Every expert was once a beginner. Keep learning, keep growing!"* 🌟
-
-&nbsp;
+> *"Keep learning, keep building, keep growing!"* ✨
 🐍 My Contribution Snake
 <div align="center">
 <picture>
