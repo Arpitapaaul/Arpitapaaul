@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Arpita%20Paul&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Learner&descAlignY=60&descSize=18&descColor=c084fc&stroke=c084fc&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=250&section=header&text=Arpita%20Paul&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Learner&descAlignY=60&descSize=20&descColor=fce7f3" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=780&height=60&lines=📊+Data+Analyst+%7C+Turning+Raw+Data+into+Impact;🌐+Full+Stack+Developer+%7C+React+·+Node.js+·+Python;🤖+AI+%2F+ML+Learner+%7C+Building+Intelligent+Solutions;🌍+Based+in+Kolkata%2C+India+%7C+Open+to+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=c084fc&center=true&vCenter=true&width=750&height=55&lines=Data+Analyst+%7C+Turning+Raw+Data+into+Impact;Full+Stack+Developer+%7C+React+%7C+Node.js+%7C+Python;AI+%2F+ML+Learner+%7C+Building+Intelligent+Solutions;Based+in+Kolkata%2C+India+%7C+Open+to+Opportunities" alt="Typing SVG"/>
 
 <br/><br/>
 
