@@ -27,23 +27,18 @@
 
 <div align="center">
 
-```
-  📊 Data Analyst   •   👩‍💻 Developer   •   🌍 Kolkata, India   •   she/her
-```
+📊 **Data Analyst** &nbsp;•&nbsp; 👩‍💻 **Developer** &nbsp;•&nbsp; 🌍 **Kolkata, India** &nbsp;•&nbsp; *she/her*
 
 </div>
 
 <br/>
 
-```python
-class ArpitaPaul:
-    role       = ["Data Analyst", "Full Stack Developer", "AI/ML Learner"]
-    focus      = "Transforming raw data → powerful insights"
-    skills     = ["Python", "SQL", "React", "Node.js", "ML"]
-    location   = "Kolkata, India 🌍"
-    open_to    = ["Data Analytics", "Data Engineering", "SWE Roles"]
-    fun_fact   = "I debug better at 2AM than 2PM 🌙"
-```
+🔹 &nbsp; **Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Data Analyst &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; AI/ML Learner
+🔹 &nbsp; **Focus** &nbsp;&nbsp;&nbsp; → Transforming raw data into powerful insights
+🔹 &nbsp; **Skills** &nbsp;&nbsp;&nbsp;&nbsp; → Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; ML
+🔹 &nbsp; **Location** → Kolkata, India 🌍
+🔹 &nbsp; **Open to** &nbsp; → Data Analytics &nbsp;·&nbsp; Data Engineering &nbsp;·&nbsp; SWE Roles
+🔹 &nbsp; **Fun fact** &nbsp; → I debug better at 2AM than 2PM 🌙
 
 <br/>
 
@@ -115,13 +110,13 @@ class ArpitaPaul:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arpitapaaul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=c084fc&text_color=ffffff&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arpitapaaul&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitapaaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitapaaul&layout=compact&theme=radical&hide_border=true" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitapaaul&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=c084fc&ring=c084fc&fire=ec4899&currStreakLabel=c084fc" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=Arpitapaaul&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="65%"/>
 
 </div>
 
@@ -134,18 +129,6 @@ class ArpitaPaul:
 <br/>
 
 <img src="https://leetcard.jacoblin.cool/Arpitapaul_?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="60%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ &nbsp; GitHub Trophies &nbsp; ✦
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arpitapaaul&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4"/>
 
 </div>
 
