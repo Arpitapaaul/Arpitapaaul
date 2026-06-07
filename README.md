@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=55&lines=📊+Data+Analytics+%26+Visualization+Expert;🌐+Full+Stack+Developer+(React+%7C+Node+%7C+Python);🤖+AI+%2F+ML+Learner+%7C+Deep+Learning+Explorer;🎓+Final+Year+CSE+Student+%7C+Kolkata%2C+India" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=55&lines=📊+Data+Analytics+Enthusiast+%7C+Turning+Data+into+Insights;🌐+Full+Stack+Developer+(React+%7C+Node.js+%7C+Python);🤖+AI+%2F+ML+Learner+%7C+Building+Intelligent+Solutions;🎓+Final+Year+CSE+Student+%7C+Kolkata%2C+India" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -21,6 +21,9 @@
 
 <div align="center">
 
+```
+👩‍💻 Developer  •  🎯 Curious Coder  •  🌍 Kolkata, India  •  she/her
+```
 
 </div>
 
