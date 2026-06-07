@@ -1,51 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Arpita%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Arpita%20Paul&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20ML%20Enthusiast%20✦&descAlignY=58&descSize=16&descColor=E9C4FF" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=💻+Computer+Science+Student;🌐+Web+Developer+%7C+Data+Analytics+Enthusiast;🤖+Machine+Learning+Explorer)](https://git.io/typing-svg)
+<a href="https://github.com/Arpitapaaul">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=👩‍💻+Final+Year+CSE+Student;💜+Based+in+Kolkata%2C+India;🌐+Full+Stack+Developer;📊+Data+Analytics+Enthusiast;🤖+Machine+Learning+Explorer" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=Arpitapaaul&color=C084FC&style=flat-square&label=Profile+Views)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Arpitapaaul?style=flat-square&color=C084FC&label=Followers)](https://github.com/Arpitapaaul)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<div align="center">
 
-### 👩‍💻 Arpita Paul
+```
+💻 Developer  •  🎯 Curious Coder  •  🌍 Based in Kolkata, India
+```
 
-**Full Stack Developer | Data Analytics Enthusiast**
-
-<br/>
-
-🎓 &nbsp; Final Year **Computer Science Engineering** Student  
-📍 &nbsp; Based in **Kolkata, India**  
-💻 &nbsp; Building scalable apps with **React, Node.js & Python**  
-📊 &nbsp; Skilled in **SQL, Data Analytics & Data Visualization**  
-🤖 &nbsp; Learning **Machine Learning, Deep Learning & AI**  
-📈 &nbsp; Building projects in **Data Analytics, AI & Full Stack Dev**  
-🚀 &nbsp; Open to **Data Analytics, Data Engineering & Software Dev** roles  
+</div>
 
 <br/>
 
-> *"Transforming data into insights and ideas into solutions."* ✨
+- 🌱 &nbsp; Diving deeper into **Full Stack Dev** (React, Node.js, Python, MongoDB) and contributing to **open-source**
+- 📊 &nbsp; Skilled in **SQL, Data Analytics & Data Visualization**
+- 🤖 &nbsp; Exploring **Machine Learning, Deep Learning & AI**
+- 🎓 &nbsp; Final Year **Computer Science Engineering** Student
+- 🚀 &nbsp; Open to **Data Analytics, Data Engineering & Software Dev** roles
+- ⚡ &nbsp; Fun fact: *I debug better at 2 AM than 2 PM* 😄
 
-</td>
-<td valign="top" width="40%">
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Girl Coding"/>
+<div align="center">
 
-</td>
-</tr>
-</table>
+> *✦ "Transforming data into insights and ideas into solutions." ✦*
 
-&nbsp;
+</div>
+
+<br/>
 
 ### 🎯 Quick Facts
 
@@ -55,8 +56,49 @@
 | 🌱 Learning | Deep Learning, Cloud & Data Engineering |
 | 👯 Open to | Collaborations, Internships & Full-time roles |
 | 💬 Ask me about | Web Dev, Python, SQL, Data Analytics |
-| 📫 Reach me at | [missarpita1692004@gmail.com](mailto:missarpita1692004@gmail.com) |
+| 📫 Reach me at | [arpita20047@gmail.com](mailto:arpita20047@gmail.com) |
 | ⚡ Motto | Code. Learn. Grow. Repeat. 🔁 |
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpita20047@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-paul-483294289)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_arpita_07_?igsh=YnA0cGd1N2ZxNWJ3)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ArpitaPaul54260)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arpitapaul_/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpitapaaul)
+
+</div>
+
+---
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arpitapaaul&color=A855F7&style=for-the-badge&label=Profile+Views)
+
+### 💜 *"Code. Learn. Grow. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" width="100%"/>
+
+</div>
+
 
 ---
 
@@ -100,6 +142,16 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitapaaul&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="60%"/>
 
 </div>
+
+
+## 📊 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Arpitapaul_?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="60%"/>
+
+</div>
+
 
 ---
 
@@ -208,52 +260,3 @@
 </table>
 
 ---
-
----
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Arpitapaaul/Arpitapaaul/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:missarpita1692004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-paul-483294289)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_arpita_07_?igsh=YnA0cGd1N2ZxNWJ3)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ArpitaPaul54260)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arpitapaul_/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpitapaaul)
-
-</div>
-
----
-
-## 📊 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Arpitapaul_?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="60%"/>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arpitapaaul&color=A855F7&style=for-the-badge&label=Profile+Views)
-
-### 💜 *"Code. Learn. Grow. Repeat."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
