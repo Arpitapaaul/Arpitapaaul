@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Arpita%20Paul&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20ML%20Enthusiast%20✦&descAlignY=58&descSize=16&descColor=E9C4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:EC4899&height=220&section=header&text=Hi%20There!%20I'm%20Arpita%20Paul%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20Enthusiast%20%7C%20AI%2FML%20Learner&descAlignY=58&descSize=17&descColor=F3E8FF" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/Arpitapaaul">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=👩‍💻+Final+Year+CSE+Student;💜+Based+in+Kolkata%2C+India;🌐+Full+Stack+Developer;📊+Data+Analytics+Enthusiast;🤖+Machine+Learning+Explorer" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=55&lines=📊+Data+Analytics+%26+Visualization+Expert;🌐+Full+Stack+Developer+(React+%7C+Node+%7C+Python);🤖+AI+%2F+ML+Learner+%7C+Deep+Learning+Explorer;🎓+Final+Year+CSE+Student+%7C+Kolkata%2C+India" alt="Typing SVG"/>
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=Arpitapaaul&color=C084FC&style=flat-square&label=Profile+Views)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Arpitapaaul?style=flat-square&color=C084FC&label=Followers)](https://github.com/Arpitapaaul)
+![Profile Views](https://komarev.com/ghpvc/?username=Arpitapaaul&color=A855F7&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Arpitapaaul?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=Followers&logo=github)](https://github.com/Arpitapaaul)
 
 </div>
 
@@ -24,25 +22,28 @@
 <div align="center">
 
 ```
-💻 Developer  •  🎯 Curious Coder  •  🌍 Based in Kolkata, India
+👩‍💻 Developer  •  🎯 Curious Coder  •  🌍 Kolkata, India  •  she/her
 ```
 
 </div>
 
 <br/>
 
-- 🌱 &nbsp; Diving deeper into **Full Stack Dev** (React, Node.js, Python, MongoDB) and contributing to **open-source**
-- 📊 &nbsp; Skilled in **SQL, Data Analytics & Data Visualization**
-- 🤖 &nbsp; Exploring **Machine Learning, Deep Learning & AI**
-- 🎓 &nbsp; Final Year **Computer Science Engineering** Student
-- 🚀 &nbsp; Open to **Data Analytics, Data Engineering & Software Dev** roles
-- ⚡ &nbsp; Fun fact: *I debug better at 2 AM than 2 PM* 😄
+| | |
+|:---|:---|
+| 🎓 | Final Year **Computer Science Engineering** Student |
+| 📊 | **Data Analytics & Visualization** — turning raw data into powerful insights |
+| 🌐 | **Full Stack Developer** — React, Node.js, Python, MongoDB |
+| 🤖 | Learning **AI / ML & Deep Learning** — building intelligent solutions |
+| 🗄️ | Skilled in **SQL, Power BI & Data Engineering** pipelines |
+| 🚀 | Open to **Data Analytics, Data Engineering & Software Dev** roles |
+| ⚡ | Fun fact: *I debug better at 2 AM than 2 PM* 😄 |
 
 <br/>
 
 <div align="center">
 
-> *✦ "Transforming data into insights and ideas into solutions." ✦*
+> ### *✦ "Transforming data into insights and ideas into solutions." ✦*
 
 </div>
 
