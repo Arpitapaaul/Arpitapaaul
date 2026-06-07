@@ -21,9 +21,6 @@
 
 <div align="center">
 
-```
-👩‍💻 Developer  •  🎯 Curious Coder  •  🌍 Kolkata, India  •  she/her
-```
 
 </div>
 
