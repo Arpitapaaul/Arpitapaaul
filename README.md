@@ -35,10 +35,6 @@
 
 <br/>
 
-<table align="center" width="90%">
-<tr>
-<td>
-
 ```python
 class ArpitaPaul:
     role       = ["Data Analyst", "Full Stack Developer", "AI/ML Learner"]
@@ -48,10 +44,6 @@ class ArpitaPaul:
     open_to    = ["Data Analytics", "Data Engineering", "SWE Roles"]
     fun_fact   = "I debug better at 2AM than 2PM 🌙"
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
