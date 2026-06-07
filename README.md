@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:EC4899&height=220&section=header&text=Hi%20There!%20I'm%20Arpita%20Paul%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20Enthusiast%20%7C%20AI%2FML%20Learner&descAlignY=58&descSize=17&descColor=F3E8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:EC4899&height=220&section=header&text=Hi%20There!%20I'm%20Arpita%20Paul%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Learner&descAlignY=58&descSize=17&descColor=F3E8FF" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=55&lines=📊+Data+Analytics+Enthusiast+%7C+Turning+Data+into+Insights;🌐+Full+Stack+Developer+(React+%7C+Node.js+%7C+Python);🤖+AI+%2F+ML+Learner+%7C+Building+Intelligent+Solutions;🎓+Final+Year+CSE+Student+%7C+Kolkata%2C+India" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=55&lines=📊+Data+Analyst+%7C+Turning+Data+into+Insights;🌐+Full+Stack+Developer+(React+%7C+Node.js+%7C+Python);🤖+AI+%2F+ML+Learner+%7C+Building+Intelligent+Solutions" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -31,8 +31,7 @@
 
 | | |
 |:---|:---|
-| 🎓 | Final Year **Computer Science Engineering** Student |
-| 📊 | **Data Analytics & Visualization** — turning raw data into powerful insights |
+| 📊 | **Data Analyst** — turning raw data into powerful insights |
 | 🌐 | **Full Stack Developer** — React, Node.js, Python, MongoDB |
 | 🤖 | Learning **AI / ML & Deep Learning** — building intelligent solutions |
 | 🗄️ | Skilled in **SQL, Power BI & Data Engineering** pipelines |
