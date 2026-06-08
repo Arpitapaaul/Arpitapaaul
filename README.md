@@ -110,17 +110,25 @@
 
 <div align="center">
 
-## ✦ &nbsp; GitHub Stats &nbsp; ✦
+## 📊 GitHub Stats & 🔥 Streak
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arpitapaaul&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitapaaul&layout=compact&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arpitapaaul&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=c084fc&text_color=ffffff&border_radius=10" width="48%"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Arpitapaaul&theme=radical&hide_border=true&border_radius=10&background=0d0d0d&ring=ff2d78&fire=ff2d78&currStreakLabel=c084fc" width="48%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Arpitapaaul&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="65%"/>
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpitapaaul&bg_color=0d0d0d&color=c084fc&line=ff2d78&point=ffffff&area=true&hide_border=true&radius=8" width="95%"/>
+
+<br/><br/>
+
+## 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitapaaul&layout=donut&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=ffffff&border_radius=10" width="40%"/>
 
 </div>
 
