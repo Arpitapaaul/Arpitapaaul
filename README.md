@@ -134,7 +134,7 @@
 
 ## 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitapaaul&layout=pie&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitapaaul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=ffffff" width="55%"/>
 
 </div>
 
