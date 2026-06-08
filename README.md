@@ -112,15 +112,6 @@
 
 <br/><br/>
 
-## 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitapaaul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="55%"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## ✦ LeetCode Stats ✦
 
