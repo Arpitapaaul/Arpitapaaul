@@ -19,6 +19,7 @@
 - 🌐 **Full Stack Developer** — building with React, Node.js, Python & MongoDB
 - 🤖 **AI / ML Learner** — exploring intelligent, data-driven solutions
 - 🗄️ **Tooling** — SQL, Power BI, Streamlit
+- ⚙️ **Automation** — building workflows & integrations with n8n
 - 🎓 Computer Science student
 - 🌍 Based in **Kolkata, India**
 - 🚀 Open to **Data Analytics, Data Engineering & Software Engineering** roles
@@ -60,6 +61,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**⚙️ Automation & Integration**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=flat-square&logo=webhooks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 **🛠️ Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -96,7 +105,7 @@
 | 🌱 **[AI-SoilCycle](https://github.com/Arpitapaaul/AI-SoilCycle)** | AI-powered soil analysis tool that uses ML to predict and analyze soil health and agricultural patterns. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | 🌦️ **[Weather ETL Pipeline](https://github.com/Arpitapaaul/weather-data-etl-pipeline)** | Real-time weather data ETL pipeline built with Python, Pandas, MySQL, SQLAlchemy, Streamlit & the OpenWeatherMap API. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | ⏱️ **[TimeVault](https://github.com/Arpitapaaul/TimeVault)** | A time-management & productivity app to track and organize daily tasks and goals efficiently. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 📦 **More coming soon** | Always building something new — stay tuned for projects in Data Analytics, AI & Full Stack. ✨ | ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-150458?style=flat-square&logo=pandas&logoColor=white) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| 📦 **More coming soon** | Always building something new — stay tuned for projects in Data Analytics, AI, Automation & Full Stack. ✨ | ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-150458?style=flat-square&logo=pandas&logoColor=white) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
 
 ---
 
