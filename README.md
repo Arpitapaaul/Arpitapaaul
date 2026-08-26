@@ -116,24 +116,7 @@ Node.js/Express backend built with a structured MVC architecture — controllers
 
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arpitapaaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Arpitapaaul&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitapaaul&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophies](https://github-profile-trophy.vercel.app/?username=Arpitapaaul&theme=tokyonight&no-frame=true&margin-w=4&column=7)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
